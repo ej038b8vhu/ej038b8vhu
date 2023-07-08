@@ -5,7 +5,7 @@
  
 - [ ] Implement `rn-jsearch` 🔍
 
-- [ ] Implement `rb-fighting-game` ⚔
+- [x] Implement `rb-fighting-game` ⚔
 
 - [ ] Create a project use `Imba` 🖍
     
