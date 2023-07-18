@@ -1,7 +1,8 @@
 ### 🚀 &emsp;Things to rock  &emsp;🚀 
 
 - [ ] Update React Native Expo projects. 📱 [Instruction](https://docs.expo.dev/eas-update/migrate-from-classic-updates/?redirected)  
-   - `rn-openAI` `rn-jsearch` 
+   - [x] `rn-openAI`
+   - [ ] `rn-jsearch` 
  
 - [ ] Implement `rn-jsearch` 🔍
 
