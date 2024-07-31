@@ -10,7 +10,7 @@
 
 - [ ] Create a project use `Imba` 🖍
     
-- [ ] Polish `ls-mern-social-media` 🎺
+- [ ] Publish `ls-mern-social-media` 🎺
 
 <!--
 **ej038b8vhu/ej038b8vhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
